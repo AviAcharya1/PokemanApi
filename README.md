@@ -2,6 +2,10 @@
 
 - This is a React-based web application that fetches data from the PokeAPI and displays a list of Pokemon. Users can click on a Pokemon to view its details or hover over a Pokemon to see a preview of its details.
 
+## This Project is live at:
+
+- https://pokeman-2a8va4k2b-aviacharya1s-projects.vercel.app/
+
 ## Features
 
 - Display a list of Pokemon with their names
